@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\bin\Debug\GADE6112_POE.exe.config
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\bin\Debug\GADE6112_POE.exe
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\bin\Debug\GADE6112_POE.pdb
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.csprojAssemblyReference.cache
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.Form1.resources
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.Properties.Resources.resources
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.csproj.GenerateResource.cache
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.exe
+D:\VisualStudioProjects\GADE6112_POE\GADE6112_POE\obj\Debug\GADE6112_POE.pdb
